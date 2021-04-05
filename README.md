@@ -1,4 +1,4 @@
-#CipherApp
+# CipherApp
 Variation of Caesar Cipher.
 
 How to use the Cipher App:

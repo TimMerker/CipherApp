@@ -3,7 +3,7 @@ Variation of Caesar Cipher.
 
 How to use the Cipher App:
 
-1. Run the main function in Main.java. Make sure a new window called Cipher App opens.
+1. Run the main function in Main.java. Make sure a new window called 'Cipher App' opens.
 
 2. Enter a positive integer as a shift. 
 The shift shifts the uppercase and lowercase letters in the alphabet. 
